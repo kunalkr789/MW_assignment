@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "Learn about Polymer",
+    "created_at": "Mon Apr 26 06:01:55 2015",
+    "Tags": "Web Development",
+    "is_complete": true
+  },
+  {
+    "id": 2,
+    "text": "Watch Pluralsight course on Docker",
+    "created_at": "Tue Mar 02 07:01:55 2015",
+    "Tags": "Devops",
+    "is_complete": true
+  },
+  {
+    "id": 3,
+    "text": "Complete presentation prep for Aurelia presentation",
+    "created_at": "Wed Mar 05 10:01:55 2015",
+    "Tags": "Presentation",
+    "is_complete": false
+  },
+  {
+    "id": 4,
+    "text": "Instrument creation of development environment with Puppet",
+    "created_at": "Fri June 30 13:00:00 2015",
+    "Tags": "Devops",
+    "is_complete": false
+  },
+  {
+    "id": 5,
+    "text": "Transition code base to ES6",
+    "created_at": "Mon Aug 01 10:00:00 2015",
+    "Tags": "ES6",
+    "is_complete": false
+  }
+]
